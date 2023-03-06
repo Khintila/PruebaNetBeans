@@ -14,6 +14,7 @@ public class App
     public static void main(String[] args)
     {
         System.out.println("Añadiendo modificaciones");
-        System.out.println("Estamos trabajando en la rama...");
+        System.out.println("Modificando la clase App desde local...");
+        
     }
 }
