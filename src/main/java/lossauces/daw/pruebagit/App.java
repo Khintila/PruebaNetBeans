@@ -14,7 +14,6 @@ public class App
     public static void main(String[] args)
     {
         System.out.println("Añadiendo modificaciones");
-        System.out.println("Modificando la clase App desde local...");
-        
+        System.out.println("Estamos modificando la clase App desde GitHub");
     }
 }
