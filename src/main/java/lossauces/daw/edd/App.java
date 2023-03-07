@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lossauces.daw.pruebagit;
+package lossauces.daw.edd;
 
 /**
  *
@@ -15,5 +15,6 @@ public class App
     {
         System.out.println("Añadiendo modificaciones");
         System.out.println("Estamos modificando la clase App desde GitHub");
+        System.out.println("Hemos modificado la clase desde local");
     }
 }
